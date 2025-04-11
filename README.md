@@ -11,7 +11,7 @@ I've been in the corporate technical education space for 5 years. It's time to r
   - More Kubernetes
 - 👯 I’m looking to collaborate on
   - Kubernetes, CICD, AWS
-- 💬 Ask me about Dutch rabbits
+- 💬 Ask me about Holland Lops and Netherlands Dwarves
 - 📫 How to reach me: dennishuynh@protonmail.com
 - ⚡ Fun fact:
   - "kaneda", as in Shotaro Kaneda
