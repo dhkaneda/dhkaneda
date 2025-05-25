@@ -2,9 +2,11 @@
 
 I've been in the corporate technical education space for 5 years. It's time to resurface for some air.
 
+- 🎉 I'm celebrating ...
+  - Certified Kubernetes Application Developer! (CKAD) - May 15th, 2025
 - 🔭 I’m currently working on ...
   - Teaching DevOps and ROSA to largest US based telecom and insurance cloud migration teams
-  - Setting up my homelab with k3s
+  - Homelabbing / Blogging
 - 🌱 I’m currently (always) learning ...
   - Python
   - More Linux
