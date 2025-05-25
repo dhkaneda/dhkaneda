@@ -3,7 +3,7 @@
 I've been in the corporate technical education space for 5 years. It's time to resurface for some air.
 
 - 🎉 I'm celebrating ...
-  - Certified Kubernetes Application Developer! (CKAD) - May 15th, 2025
+  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) Certified Kubernetes Application Developer! (CKAD) - May 15th, 2025
 - 🔭 I’m currently working on ...
   - Teaching DevOps and ROSA to largest US based telecom and insurance cloud migration teams
   - Homelabbing / Blogging
