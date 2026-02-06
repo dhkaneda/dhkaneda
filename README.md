@@ -1,23 +1,13 @@
 ## Hi there 👋
 
-I've been in the corporate technical education space for 5 years. It's time to resurface for some air.
+I've been in the corporate technical education space for 6 years
 
 - 🎉 I'm celebrating ...
   - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) Certified Kubernetes Application Developer! (CKAD) - May 15th, 2025
 - 🔭 I’m currently working on ...
-  - Teaching DevOps and ROSA to largest US based telecom and insurance cloud migration teams
+  - Teaching cloud native deployments and migrations to largest US based telecom and insurance cloud migration teams
   - Homelabbing / Blogging
-- 🌱 I’m currently (always) learning ...
-  - Python
-  - More Linux
-  - More Kubernetes
-- 👯 I’m looking to collaborate on
-  - Kubernetes, CICD, AWS
-- 💬 Ask me about Holland Lops and Netherlands Dwarves
 - 📫 How to reach me: dennishuynh@protonmail.com
-- ⚡ Fun fact:
-  - "kaneda", as in Shotaro Kaneda
-  - I am truly on the fence between the Federation and Zeon
 
 ### 🛠️ Tech Stack
 
